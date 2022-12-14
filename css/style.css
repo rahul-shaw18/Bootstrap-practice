@@ -1,0 +1,18 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.navbar-dark  .nav-item .nav-link{
+    color: rgb(255, 255, 255) !important;
+    font-weight: 400;
+}
+
+.height{
+    height: 400px !important;
+}
+.width{
+    width: 600px !important;
+    /* justify-content: ; */
+}
